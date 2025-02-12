@@ -1,0 +1,33 @@
+[
+    {
+      "nombre": "Laptop",
+      "precio": 900,
+      "categoria": "Electrónica",
+      "stock": 10
+    },
+    {
+      "nombre": "Teléfono",
+      "precio": 450,
+      "categoria": "Electrónica",
+      "stock": 15
+    },
+    {
+      "nombre": "Silla",
+      "precio": 180,
+      "categoria": "Muebles",
+      "stock": 8
+    },
+    {
+      "nombre": "Libro",
+      "precio": 22.5,
+      "categoria": "Educación",
+      "stock": 20
+    },
+    {
+      "nombre": "Monitor",
+      "precio": 270,
+      "categoria": "Electrónica",
+      "stock": 5
+    }
+  ]
+  

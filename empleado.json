@@ -1,0 +1,33 @@
+[
+    {
+      "nombre": "Juan Pérez",
+      "puesto": "Desarrollador",
+      "salario": 3000,
+      "añosExperiencia": 5
+    },
+    {
+      "nombre": "María Gómez",
+      "puesto": "Diseñadora UX/UI",
+      "salario": 2800,
+      "añosExperiencia": 4
+    },
+    {
+      "nombre": "Carlos López",
+      "puesto": "Gerente de Proyecto",
+      "salario": 5000,
+      "añosExperiencia": 10
+    },
+    {
+      "nombre": "Ana Martínez",
+      "puesto": "Analista de Datos",
+      "salario": 3500,
+      "añosExperiencia": 6
+    },
+    {
+      "nombre": "Luis Ramírez",
+      "puesto": "Soporte Técnico",
+      "salario": 2200,
+      "añosExperiencia": 3
+    }
+  ]
+  

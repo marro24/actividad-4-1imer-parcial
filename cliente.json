@@ -1,0 +1,33 @@
+[
+    {
+      "nombre": "Juan Pérez",
+      "telefono": "555-1234",
+      "email": "juan@example.com",
+      "saldo": 300
+    },
+    {
+      "nombre": "María Gómez",
+      "telefono": "555-5678",
+      "email": "maria@example.com",
+      "saldo": 300
+    },
+    {
+      "nombre": "Carlos López",
+      "telefono": "555-9012",
+      "email": "carlos@example.com",
+      "saldo": 550
+    },
+    {
+      "nombre": "Ana Martínez",
+      "telefono": "555-3456",
+      "email": "ana@example.com",
+      "saldo": 1000
+    },
+    {
+      "nombre": "Luis Ramírez",
+      "telefono": "555-7890",
+      "email": "luis@example.com",
+      "saldo": 250
+    }
+  ]
+  

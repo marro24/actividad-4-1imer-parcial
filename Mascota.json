@@ -1,0 +1,33 @@
+[
+    {
+      "nombre": "Firulais",
+      "especie": "Perro",
+      "edad": 4,
+      "dueño": "Juan Pérez"
+    },
+    {
+      "nombre": "Michi",
+      "especie": "Gato",
+      "edad": 2,
+      "dueño": "María Gómez"
+    },
+    {
+      "nombre": "Nemo",
+      "especie": "Pez",
+      "edad": 2,
+      "dueño": "Carlos López"
+    },
+    {
+      "nombre": "Rocky",
+      "especie": "Hamster",
+      "edad": 1,
+      "dueño": "Ana Martínez"
+    },
+    {
+      "nombre": "Luna",
+      "especie": "Conejo",
+      "edad": 4,
+      "dueño": "Luis Ramírez"
+    }
+  ]
+  

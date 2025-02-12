@@ -1,0 +1,33 @@
+[
+    {
+      "nombre": "Juan",
+      "edad": 20,
+      "carrera": "Ingeniería",
+      "promedio": 8.5
+    },
+    {
+      "nombre": "Ana",
+      "edad": 22,
+      "carrera": "Medicina",
+      "promedio": 9.2
+    },
+    {
+      "nombre": "Carlos",
+      "edad": 21,
+      "carrera": "Arquitectura",
+      "promedio": 7.8
+    },
+    {
+      "nombre": "Maria",
+      "edad": 23,
+      "carrera": "Derecho",
+      "promedio": 8.9
+    },
+    {
+      "nombre": "Luis",
+      "edad": 19,
+      "carrera": "Ciencias de la Computación",
+      "promedio": 9.5
+    }
+  ]
+  

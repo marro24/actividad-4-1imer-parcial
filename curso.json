@@ -1,0 +1,38 @@
+[
+    {
+      "nombre": "JavaScript desde Cero",
+      "duracion": "8 semanas",
+      "instructor": "Carlos Pérez",
+      "costo": 200,
+      "estudiantes": ["Juan Pérez", "María Gómez"]
+    },
+    {
+      "nombre": "Python para Principiantes",
+      "duracion": "10 semanas",
+      "instructor": "Ana Gómez",
+      "costo": 250,
+      "estudiantes": []
+    },
+    {
+      "nombre": "Diseño UX/UI",
+      "duracion": "6 semanas",
+      "instructor": "María López",
+      "costo": 180,
+      "estudiantes": ["Carlos López"]
+    },
+    {
+      "nombre": "Data Science con Python",
+      "duracion": "12 semanas",
+      "instructor": "Luis Ramírez",
+      "costo": 300,
+      "estudiantes": []
+    },
+    {
+      "nombre": "Marketing Digital",
+      "duracion": "5 semanas",
+      "instructor": "Sofía Fernández",
+      "costo": 150,
+      "estudiantes": []
+    }
+  ]
+  

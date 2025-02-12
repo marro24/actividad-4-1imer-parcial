@@ -1,0 +1,33 @@
+[
+    {
+      "nombre": "Concierto de Rock",
+      "fecha": "2025-06-20",
+      "lugar": "Estadio Nacional",
+      "costoEntrada": 50
+    },
+    {
+      "nombre": "Feria del Libro",
+      "fecha": "2025-07-10",
+      "lugar": "Centro de Convenciones",
+      "costoEntrada": 10
+    },
+    {
+      "nombre": "Carrera 10K",
+      "fecha": "2025-05-20",
+      "lugar": "Parque Central",
+      "costoEntrada": 5
+    },
+    {
+      "nombre": "Festival de Comida",
+      "fecha": "2025-08-25",
+      "lugar": "Plaza Mayor",
+      "costoEntrada": 20
+    },
+    {
+      "nombre": "Obra de Teatro",
+      "fecha": "2025-09-05",
+      "lugar": "Teatro Municipal",
+      "costoEntrada": 30
+    }
+  ]
+  

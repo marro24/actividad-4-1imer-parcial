@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "cliente": "Juan Pérez",
+      "productos": [
+        { "nombre": "Laptop", "precio": 1000, "cantidad": 1 },
+        { "nombre": "Mouse", "precio": 50, "cantidad": 2 }
+      ],
+      "total": 1100
+    },
+    {
+      "id": 2,
+      "cliente": "María Gómez",
+      "productos": [
+        { "nombre": "Escritorio", "precio": 200, "cantidad": 1 },
+        { "nombre": "Silla", "precio": 150, "cantidad": 1 }
+      ],
+      "total": 350
+    },
+    {
+      "id": 3,
+      "cliente": "Carlos López",
+      "productos": [
+        { "nombre": "Monitor", "precio": 300, "cantidad": 1 },
+        { "nombre": "Teclado", "precio": 80, "cantidad": 1 }
+      ],
+      "total": 380
+    },
+    {
+      "id": 4,
+      "cliente": "Ana Martínez",
+      "productos": [
+        { "nombre": "Libro", "precio": 25, "cantidad": 3 },
+        { "nombre": "Cuaderno", "precio": 10, "cantidad": 5 }
+      ],
+      "total": 115
+    },
+    {
+      "id": 5,
+      "cliente": "Luis Ramírez",
+      "productos": [
+        { "nombre": "Teléfono", "precio": 500, "cantidad": 1 },
+        { "nombre": "Audífonos", "precio": 100, "cantidad": 1 }
+      ],
+      "total": 600
+    }
+  ]
+  
